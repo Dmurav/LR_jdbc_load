@@ -1,0 +1,15 @@
+Virtual User Script started at: 06.02.2020 20:58:04
+Starting action vuser_init.
+JDBC Connection Successful
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Actions.
+Actions.java(77): Notify: Transaction "Database_Query_UPDATE" started.
+Actions.java(80): Notify: Transaction "Database_Query_UPDATE" ended with a "Pass" status (Duration: 0,0075).
+Ending action Actions.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

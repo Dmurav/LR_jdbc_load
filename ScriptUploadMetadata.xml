@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>JDBC_script</ScriptName>
+  <Protocol>Java Vuser</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.java" Filter="2" />
+    <FileEntry Name="Actions.java" Filter="2" />
+    <FileEntry Name="vuser_end.java" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="JDBC_script.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="JDBC_script.prm" Filter="2" />
+    <FileEntry Name="password.dat" Filter="2" />
+    <FileEntry Name="jdbcdriver.dat" Filter="2" />
+    <FileEntry Name="url.dat" Filter="2" />
+    <FileEntry Name="output_file.dat" Filter="2" />
+    <FileEntry Name="username.dat" Filter="2" />
+    <FileEntry Name="139523460440.idx" Filter="1" />
+    <FileEntry Name="13952346044_8pb.257.idx" Filter="1" />
+    <FileEntry Name="13952346044_9z9.675.idx" Filter="1" />
+    <FileEntry Name="13952346044_b9i.299.idx" Filter="1" />
+    <FileEntry Name="13952346044_BYB.659.idx" Filter="1" />
+    <FileEntry Name="13952346044_dGe.947.idx" Filter="1" />
+    <FileEntry Name="13952346044_Fku.823.idx" Filter="1" />
+    <FileEntry Name="13952346044_h40.491.idx" Filter="1" />
+    <FileEntry Name="13952346044_Let.213.idx" Filter="1" />
+    <FileEntry Name="13952346044_MBk.489.idx" Filter="1" />
+    <FileEntry Name="13952346044_mp5.981.idx" Filter="1" />
+    <FileEntry Name="13952346044_NQW.863.idx" Filter="1" />
+    <FileEntry Name="13952346044_TbU.253.idx" Filter="1" />
+    <FileEntry Name="13952346044_x6M.287.idx" Filter="1" />
+    <FileEntry Name="13952346044_Y6L.643.idx" Filter="1" />
+    <FileEntry Name="13952346044_YAR.335.idx" Filter="1" />
+    <FileEntry Name="13952346044_YAR.429.idx" Filter="1" />
+    <FileEntry Name="13952346044_YAR.551.idx" Filter="1" />
+    <FileEntry Name="13952346044_YAR.573.idx" Filter="1" />
+    <FileEntry Name="13952346044_YAR.581.idx" Filter="1" />
+    <FileEntry Name="13952346044_YAR.603.idx" Filter="1" />
+    <FileEntry Name="13952346044_YAR.609.idx" Filter="1" />
+    <FileEntry Name="13952346044_YAR.625.idx" Filter="1" />
+    <FileEntry Name="13952346044_YAR.753.idx" Filter="1" />
+    <FileEntry Name="13952346044_YAR.783.idx" Filter="1" />
+    <FileEntry Name="199625599440.idx" Filter="1" />
+    <FileEntry Name="21746152440.idx" Filter="1" />
+    <FileEntry Name="2174615244_9qj.660.idx" Filter="1" />
+    <FileEntry Name="2174615244_b3w.864.idx" Filter="1" />
+    <FileEntry Name="2174615244_G4X.676.idx" Filter="1" />
+    <FileEntry Name="2174615244_Ia3.336.idx" Filter="1" />
+    <FileEntry Name="2174615244_Ia3.552.idx" Filter="1" />
+    <FileEntry Name="2174615244_Ia3.574.idx" Filter="1" />
+    <FileEntry Name="2174615244_Ia3.604.idx" Filter="1" />
+    <FileEntry Name="2174615244_Ia3.610.idx" Filter="1" />
+    <FileEntry Name="2174615244_Ia3.626.idx" Filter="1" />
+    <FileEntry Name="2174615244_Ia3.754.idx" Filter="1" />
+    <FileEntry Name="2174615244_Ia3.784.idx" Filter="1" />
+    <FileEntry Name="2174615244_LbA.214.idx" Filter="1" />
+    <FileEntry Name="2174615244_NQL.288.idx" Filter="1" />
+    <FileEntry Name="2174615244_NsQ.824.idx" Filter="1" />
+    <FileEntry Name="2174615244_Otj.254.idx" Filter="1" />
+    <FileEntry Name="2174615244_p8S.490.idx" Filter="1" />
+    <FileEntry Name="2174615244_Uxr.644.idx" Filter="1" />
+    <FileEntry Name="2174615244_y3n.948.idx" Filter="1" />
+    <FileEntry Name="2174615244_YCI.258.idx" Filter="1" />
+    <FileEntry Name="2174615244_YjK.300.idx" Filter="1" />
+    <FileEntry Name="41494340440.idx" Filter="1" />
+    <FileEntry Name="46983144440.idx" Filter="1" />
+    <FileEntry Name="Action.c" Filter="1" />
+    <FileEntry Name="Actions.class" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="JDBC_script.prm.bak" Filter="1" />
+    <FileEntry Name="JDBC_script.sdf" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="select_result.csv" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="vuser_end.c" Filter="1" />
+    <FileEntry Name="vuser_init.c" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>
